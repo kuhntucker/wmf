@@ -1,0 +1,20 @@
+#twingleBodyWrapper > donation-app > div.form.start > form {
+    
+    
+    padding-left: 0px;
+    background-color: red;
+
+}
+
+
+/* Eingabefelder Stil */
+input, textarea {
+    border: 1px solid rgb(204, 204, 204); /* Rahmendicke und -farbe */
+    border-radius: 2px; /* Eckenradius */
+    color: #373531; /* Schriftfarbe nach Eingabe */
+}
+
+/* Placeholder Stil */
+input::placeholder, textarea::placeholder {
+    color: #8d8b89; /* Schriftfarbe Placeholder */
+}
